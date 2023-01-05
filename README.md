@@ -4,5 +4,5 @@
  <meta name="author" content="Ariful Islam Arman">
 
 <p align="center">
-  <img src="logo.png" alt="C PROGRAMMING">
+  <img src="logo.png" height="150px" alt="C PROGRAMMING">
 </p>
