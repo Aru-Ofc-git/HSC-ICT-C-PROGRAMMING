@@ -7,6 +7,6 @@
   <img src="logo.png" height="150px" alt="C PROGRAMMING">
 </p>
 
-<div align="center">
-<h1> সি প্রোগ্রামিং </h1>
-</div>
+
+> <h2><p align='center'><b> HSC ICT <br> সি প্রোগ্রামিং </</b></p></h2>
+> <p> <ol> <li> বৃহত্তম ও ক্ষুদ্রতম সংখ্যা নির্ণয়। </li> <ul></li> <a href="www.fb.com"> দুটি সংখার মধ্যে বৃহত্তম ও ক্ষুদ্রতম সংখ্যা নির্ণয় </a> </li></ul>  </ol> </p>
