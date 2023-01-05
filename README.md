@@ -6,3 +6,7 @@
 <p align="center">
   <img src="logo.png" height="150px" alt="C PROGRAMMING">
 </p>
+
+<div align="center">
+<h1> সি প্রোগ্রামিং </h1>
+</div>
